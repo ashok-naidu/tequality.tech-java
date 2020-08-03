@@ -1,4 +1,4 @@
-# jaav for testers - examples source code 
+# Java for testers - examples source code from tequality.tech
 
 ## Topics 
 
